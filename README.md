@@ -17,4 +17,8 @@
 ### >> Some past competiotion
 
 
+
+
+## make a seperate directory for algorithm and dataset 
+
  
